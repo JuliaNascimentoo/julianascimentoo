@@ -49,17 +49,3 @@ Me chamo Julia Nascimento, tenho 19 anos e sou de Belo Horizonte, MG. Formada em
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JuliaNascimentoo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>

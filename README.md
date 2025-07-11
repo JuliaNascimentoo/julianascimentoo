@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Julia Nascimento, tenho 19 anos e sou de Belo Horizonte, MG. Formada em Técnico em Informática e atualmente estudante de Análise e Desenvolvimento de Sistemas, sou movida pela curiosidade e pela paixão por tecnologia. Criativa por natureza, adoro explorar, aprender e transformar ideias em soluções que fazem a diferença.
+Me chamo Julia Nascimento, tenho 19 anos e sou de Belo Horizonte, MG. Formada em Técnico em Informática e atualmente estudante de Análise e Desenvolvimento de Sistemas, sou movida pela curiosidade e pela paixão por tecnologia. Criativa, adoro explorar, aprender e transformar ideias em soluções que fazem a diferença.
 
 ---
  
@@ -56,4 +56,12 @@ Me chamo Julia Nascimento, tenho 19 anos e sou de Belo Horizonte, MG. Formada em
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
